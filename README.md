@@ -27,3 +27,9 @@ En este punto se trabajó con diferentes funciones que permitieron la simulació
 Se puede observar el comportamiento de las señales dadas en la siguiente imagen, siendo la primera, la señal modulada, la segunda representa la señal modulada cuando fue sometida a ruido y la tercera representa la señal demodulada.
 
 ![Imgur](https://i.imgur.com/XapifxV.png)
+
+### 4.2. - Estacionaridad y ergodicidad
+
+* (30%) Realice pruebas de estacionaridad y ergodicidad a la señal modulada `senal_Tx` y obtenga conclusiones sobre estas.
+
+
